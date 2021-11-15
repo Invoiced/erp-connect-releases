@@ -1,6 +1,12 @@
 {
-    "currentRelease": "1.5.1",
+    "currentRelease": "1.5.2",
     "releases": [
+        {
+            "version": "1.5.2",
+            "updateTo": {
+                "url": "https://github.com/Invoiced/erp-connect-releases/releases/download/v1.5.2/ERP-Connect-macOS.zip"
+            }
+        },
         {
             "version": "1.5.1",
             "updateTo": {
